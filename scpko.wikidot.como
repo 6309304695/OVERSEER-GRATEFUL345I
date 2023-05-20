@@ -1,0 +1,1428 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ko" lang="ko">
+
+<head>
+    <title>SCP 재단</title>
+    
+    
+    
+    <script type="text/javascript" src="http://d3g0gp89917ko0.cloudfront.net/v--291054f06006/common--javascript/init.combined.js"></script>
+    <script  type="text/javascript">
+        var URL_HOST = 'www.wikidot.com';
+        var URL_DOMAIN = 'wikidot.com';
+        var USE_SSL =  true ;
+        var URL_STATIC = 'http://d3g0gp89917ko0.cloudfront.net/v--291054f06006';
+        // global request information
+        
+        var WIKIREQUEST = {};
+        WIKIREQUEST.info = {};
+        
+        WIKIREQUEST.info.domain = "scpko.wikidot.com";
+        WIKIREQUEST.info.siteId = 486864;
+        WIKIREQUEST.info.siteUnixName = "scpko";
+        WIKIREQUEST.info.categoryId = 2946886;
+        WIKIREQUEST.info.themeId = 1;
+        WIKIREQUEST.info.requestPageName = "main";
+        OZONE.request.timestamp = 1673668707;
+        OZONE.request.date = new Date();
+        WIKIREQUEST.info.lang = 'ko';
+                WIKIREQUEST.info.pageUnixName = "main";
+        WIKIREQUEST.info.pageId = 14010033;
+                        WIKIREQUEST.info.lang = "ko";
+        OZONE.lang = "ko";
+        var isUAMobile = !!/Android|webOS|iPhone|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
+    </script>
+    
+    
+
+
+    
+        <script  type="text/javascript">
+    
+        require.config({
+            baseUrl: URL_STATIC + '/common--javascript',
+            paths: {
+                'jquery.ui': 'jquery-ui.min',
+                'jquery.form': 'jquery.form'
+            }
+        });
+    
+    </script>
+    
+    <meta http-equiv="content-type" content="text/html;charset=UTF-8"/>
+                            <meta name="description" content="Front Page"/>
+                                <meta name="keywords" content="SCP,재단,SCP재단"/>
+                                <meta name="robots" content="index,follow"/>
+                                <meta name="language" content="ko,kr-ko"/>
+                                                            <meta name="google-site-verification" content="BXQ3BXekflnqWD_0gNXFPGiIRruH5Ol_DC5lPDnrLJk"/>
+                                <meta name="naver-site-verification" content="86e423fc6428b1b21c49caa4ce0a14b5bf938b38"/>
+                                <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no"/>
+                            
+    
+    
+    
+    
+    <meta http-equiv="content-language" content="ko,kr-ko"/>
+    <script type="text/javascript" src="http://d3g0gp89917ko0.cloudfront.net/v--291054f06006/common--javascript/WIKIDOT.combined.js"></script>
+        
+    
+    <style type="text/css" id="internal-style">
+        
+        /* modules */
+@import url(http://d3g0gp89917ko0.cloudfront.net/v--291054f06006/common--modules/css/feed/FeedModule.css);
+
+
+        
+                
+        /* theme */
+                    @import url(http://d3g0gp89917ko0.cloudfront.net/v--291054f06006/common--theme/base/css/style.css);
+                    @import url(http://scpko.wdfiles.com/local--code/component%3Atheme/1);
+            </style>
+    
+        
+        
+        
+    <link rel="shortcut icon" href="/local--favicon/favicon.gif"/>
+    <link rel="icon" type="image/gif" href="/local--favicon/favicon.gif"/>
+    
+            <link rel="apple-touch-icon" href="/local--iosicon/iosicon_57.png" />
+        <link rel="apple-touch-icon" sizes="72x72" href="/local--iosicon/iosicon_72.png" />
+        <link rel="apple-touch-icon" sizes="114x114" href="/local--iosicon/iosicon.png" />    
+        
+            <meta name="msapplication-TileImage" content="/local--wp8icon/wp8icon.png"/>
+                    <meta name="msapplication-TileColor" content="#d10000"/>
+                
+            <link rel="alternate" type="application/wiki" title="Edit this page" href="javascript:WIKIDOT.page.listeners.editClick()"/>
+    
+        <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-18234656-1']);
+        _gaq.push(['_setDomainName', 'none']);
+        _gaq.push(['_setAllowLinker', true]);
+        _gaq.push(['_trackPageview']);
+
+        _gaq.push(['old._setAccount', 'UA-68540-5']);
+        _gaq.push(['old._setDomainName', 'none']);
+        _gaq.push(['old._setAllowLinker', true]);
+        _gaq.push(['old._trackPageview']);
+
+                _gaq.push(['userTracker._setAccount', 'UA-36056662-3']);
+        _gaq.push(['userTracker._trackPageview']);
+            </script>
+    
+    <script type="text/javascript">
+        window.google_analytics_uacct = 'UA-18234656-1';
+        window.google_analytics_domain_name = 'none';
+    </script>
+    
+        <link rel="manifest" href="/onesignal/manifest.json" />
+    <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" acync=""></script>
+    <script>
+        var OneSignal = window.OneSignal || [];
+        OneSignal.push(function() {
+          OneSignal.init({
+            appId: null,
+          });
+        });
+    </script>
+        
+<style>
+.sns-icon {
+    width: 40px;
+    height: 40px;
+}
+</style>
+<style>
+iframe.scpnet-interwiki-frame { height: 0; }
+</style>
+<style>
+@font-face {
+    font-family: 'OKCHAN';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2206-02@1.0/OKCHAN.woff2') format('woff2');
+    font-weight: normal;
+    font-weight: 100;
+}
+</style>
+<style>
+#page-title { display: none; }
+.feature-block {
+    height: 230px;
+}
+.feature-block .panel-body {
+    height: 160px;
+    overflow-y: hidden;
+}
+.feature-block .feature-title {
+    font-size: 120%;
+    font-weight: bold;
+}
+.feature-block .feature-subtitle {
+    font-size: 90%;
+}
+
+.feature-block .feature-title > p,
+.feature-block .feature-subtitle > p {
+    margin: 0;
+}
+
+.info-block .panel-body {
+    padding: 0;
+}
+
+.info-block .info-title {
+    font-weight: bold;
+    font-size: 115%;
+    margin-bottom: 5px;
+}
+
+.info-block .info-subtitle {
+    font-size: 80%;
+    margin: 0 0 5px 1em;
+}
+
+.info-block p {
+line-height: 120%;
+}
+
+.info-block .info-title > p,
+.info-block .info-subtitle > p {
+    margin: 0;
+}
+
+.info-block .panel-body .alternate {
+    padding: 5px 10px;
+}
+
+.news-block .panel-body {
+    padding: 0;
+}
+.news-block .panel-body .alternate {
+    padding: 5px 10px;
+}
+.news-block .news-title {
+    font-weight: bold;
+    font-size: 110%;
+    margin-bottom: 5px;
+    color: #633;
+}
+.news-block .news-content {
+    margin: 5px 0;
+}
+.news-block .news-title > p,
+.news-block .news-content > p {
+    margin: 0;
+}
+
+.international-block .panel-body {
+    padding: 0;
+}
+.international-entry {
+    padding: 5px 10px;
+}
+.international-entry:nth-child(even),
+.alternate:nth-child(even) {
+    background-color: rgba(255,255,255,.9);
+    border-top: solid 1px #eeeee0;
+    border-bottom: solid 1px #eeeee0;
+}
+.international-entry div > p {
+    margin: 0;
+}
+.international-entry .international-title {
+    font-weight: bold;
+    font-size: 110%;
+}
+.international-entry .international-title img {
+    width: 16px;
+    height: 11px;
+    box-shadow: 0 1px 3px rgba(0,0,0,.5);
+}
+.international-entry .international-description {
+    font-size: 90%;
+    font-style: italic;
+    margin: 5px 20px;
+}
+.international-entry .international-footer {
+    color: #333;
+    font-size: 80%;
+    margin: 5px 0;
+}
+</style>
+<style>
+.issue-tracker .panel-body {
+    height: 250px;
+    padding: 5px 20px;
+    overflow-y: scroll;
+}
+</style>
+<style>
+@import url('http://wanderers-library.wikidot.com/component:dustjacket-theme-typefaces/code/1');
+@import url('https://use.typekit.net/tqr1skr.css');
+@font-face {
+    font-family: '국립박물관문화재단클래식M';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_twelve@1.0/국립박물관문화재단클래식M.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+a.library {
+    display: block;
+    box-sizing: border-box;
+    border: 2vw solid rgba(0,0,0,0.5);
+    border-image: url('http://wanderers-library.wdfiles.com/local--files/component%3Adustjacket-theme/wl_border.png') 600 round;
+    border-image-width: 6;
+    background: url('http://wanderers-library.wdfiles.com/local--files/component%3Atheme/wlheader_bg.png');
+    border-radius: 1.5rem;
+padding: 0 0 0.5rem;
+    color: rgb(255, 219, 90);
+    text-align: center;
+font-family: adelle-sans, sans-serif;
+font-size: 1.15em;
+}
+
+a.library .fake-h4 {
+    font-family: 'zuijinregular', '국립박물관문화재단클래식M', sans-serif;
+    margin-bottom: 0.7em;
+    margin-top: -0.5em;
+    display: inline-block;
+    font-size: 120%;
+    letter-spacing: 1px;
+}
+
+a.library .fake-h2 {
+    font-family: 'zuijinregular', '국립박물관문화재단클래식M', sans-serif;
+    margin-bottom: 0.4em;
+    display: inline-block;
+    font-size: 150%;
+    color: rgb(255, 219, 90);
+    letter-spacing: 1px;
+}
+
+.logo {
+    float:left;
+    margin-right: 0.5rem;
+    margin-top: 0.6rem;
+    padding: 0.7rem 0;
+}
+
+@media (max-width: 767px) {
+    .logo {
+        float: none;
+        margin-right: none;
+    }
+}
+</style>
+<style>
+.c_international-container .panel-body {
+    padding: 0;
+}
+.c_international-body {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    *background: rgba(255,255,255,.9) url('https://scp-wiki.wdfiles.com/local--files/component%3Atheme/panel-bg-gradient-reverse.png') bottom repeat-x;
+    padding: 5px 0;
+}
+.c_international-box {
+    margin: 5px 4px;
+    text-align: center;
+    min-width: 12em;
+}
+.c_international-box div > p,
+.international-entry div > p {
+    margin: 0;
+}
+.c_international-box .c_international-text {
+    margin: 5px 0;
+    font-size: 99%;
+}
+.international-entry {
+    padding: 10px 10px 5px 10px;
+    border-top: 1px solid #eeeee0;
+}
+.international-entry .international-description {
+    margin: 5px 20px;
+    font-size: 99%;
+}
+.c_international-box .c_international-logo img {
+    height: 90px;
+}
+
+@media (min-width: 768px) and (max-width: 979px) {
+    .c_international-box .c_international-logo img {
+        height: 80px;
+    }
+    .c_international-box {
+        min-width: 10em;
+    }
+}
+@media (min-width: 581px) and (max-width: 767px) {
+    .c_international-box .c_international-logo img {
+        height: 70px;
+    }
+    .c_international-box {
+        min-width: 10em;
+    }
+}
+@media (min-width: 480px) and (max-width: 580px) {
+    .c_international-box .c_international-logo img {
+        height: 60px;
+    }
+    .c_international-box {
+        min-width: 10em;
+    }
+}
+@media (max-width: 479px) {
+    .c_international-box .c_international-logo img {
+        height: 50px;
+    }
+    .c_international-box {
+        min-width: 10em;
+    }
+}
+
+.content-panel p { padding: 0 0.75em; }
+
+div.content-panel.centered.standalone p span{
+    line-height: 1;
+}
+:root {
+  --c_international-img-height: 90px;
+  --c_international-box-width: 12em;
+}
+
+.c_international-container .panel-body {
+    padding: 0;
+}
+.c_international-body {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.c_international-box {
+    text-align: center;
+    width: var(--c_international-box-width);
+}
+.c_international-box:first-of-type {
+    /*width: calc(2 * var(--c_international-box-width));*/
+}
+.c_international-box div > p {
+    margin: 0;
+}
+.c_international-box .c_international-text {
+    margin: 5px 0;
+    font-size: 99%;
+}
+.c_international-box .c_international-logo img {
+    height: var(--c_international-img-height);
+}
+
+@media (min-width: 768px) and (max-width: 979px) {
+  :root {
+    --c_international-img-height: 80px;
+    --c_international-box-width: 10em;
+  }
+}
+@media (min-width: 581px) and (max-width: 767px) {
+  :root {
+    --c_international-img-height: 70px;
+    --c_international-box-width: 10em;
+  }
+}
+@media (min-width: 480px) and (max-width: 580px) {
+  :root {
+    --c_international-img-height: 60px;
+    --c_international-box-width: 10em;
+  }
+}
+@media (max-width: 479px) {
+  :root {
+    --c_international-img-height: 50px;
+    --c_international-box-width: 10em;
+  }
+  .c_international-box:first-of-type {
+    flex-basis: 100vw;
+  }
+}
+
+.translation-info {
+    padding: 10px;
+    background-color: #fffefe;
+    border-bottom: solid 1px #eeeee0;
+}
+</style>
+<link rel="alternate" type="application/rss+xml" title="Comments for the page &quot;Main&quot;" href="/feed/page/comments-14010033.xml"/><script type="text/javascript" src="http://d3g0gp89917ko0.cloudfront.net/v--291054f06006/common--modules/js/list/ListPagesModule.js"></script>
+<script type="text/javascript" src="http://d3g0gp89917ko0.cloudfront.net/v--291054f06006/common--modules/js/forum/ForumCommentsModule.js"></script>
+</head>
+<body id="html-body">
+<div id="skrollr-body">
+<a name="page-top"></a>
+
+
+
+
+
+<div id="container-wrap-wrap">
+    <div id="container-wrap">
+        <div id="container">
+            <div id="header">
+              <h1><a href="/"><span>SCP 재단</span></a></h1>
+                
+                    <h2><span>확보, 격리, 보호</span></h2>
+                
+                
+                <!-- google_ad_section_start(weight=ignore) -->
+                
+                <div id="search-top-box" class="form-search">
+    <form id="search-top-box-form" action="dummy" class="input-append">
+        <input id="search-top-box-input" class="text empty search-query" type="text" size="15" name="query" value="이 사이트에서 검색" onfocus="if(YAHOO.util.Dom.hasClass(this, 'empty')){YAHOO.util.Dom.removeClass(this,'empty'); this.value='';}"/><input class="button btn" type="submit" name="search" value="검색"/>
+    </form>
+</div>
+                
+                
+                    <div id="top-bar">
+                        
+
+<div class="top-bar">
+<ul>
+<li><a href="javascript:;">SCP 시리즈</a>
+<ul>
+<li><a href="/scp-series-ko-2">시리즈 KO Ⅱ</a></li>
+<li><a href="/scp-series-ko">시리즈 KO Ⅰ</a><span class="c_topbar_arrow">▸</span>
+<ul>
+<li><a href="/scp-ko-series-tales-edition">시리즈 KO Ⅰ 이야기</a></li>
+</ul>
+</li>
+<li><a href="/scp-series-8">시리즈 Ⅷ</a></li>
+<li><a href="/scp-series-7">시리즈 Ⅶ</a></li>
+<li><a href="/scp-series-6">시리즈 Ⅵ</a><span class="c_topbar_arrow">▸</span>
+<ul>
+<li><a href="/scp-series-6-tales-edition">시리즈 Ⅵ 이야기</a></li>
+</ul>
+</li>
+<li><a href="/scp-series-5">시리즈 Ⅴ</a><span class="c_topbar_arrow">▸</span>
+<ul>
+<li><a href="/scp-series-5-tales-edition">시리즈 Ⅴ 이야기</a></li>
+</ul>
+</li>
+<li><a href="/scp-series-4">시리즈 Ⅳ</a><span class="c_topbar_arrow">▸</span>
+<ul>
+<li><a href="/scp-series-4-tales-edition">시리즈 Ⅳ 이야기</a></li>
+</ul>
+</li>
+<li><a href="/scp-series-3">시리즈 Ⅲ</a><span class="c_topbar_arrow">▸</span>
+<ul>
+<li><a href="/scp-series-3-tales-edition">시리즈 Ⅲ 이야기</a></li>
+</ul>
+</li>
+<li><a href="/scp-series-2">시리즈 Ⅱ</a><span class="c_topbar_arrow">▸</span>
+<ul>
+<li><a href="/scp-series-2-tales-edition">시리즈 Ⅱ 이야기</a></li>
+</ul>
+</li>
+<li><a href="/scp-series">시리즈 Ⅰ</a><span class="c_topbar_arrow">▸</span>
+<ul>
+<li><a href="/scp-series-1-tales-edition">시리즈 Ⅰ 이야기</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="javascript:;">이야기</a>
+<ul>
+<li><a href="/foundation-tales">이야기 허브</a></li>
+<li><a href="/foundation-tales-ko">한국어 이야기 허브</a></li>
+<li><a href="/series-archive">연작 보관소</a></li>
+<li><a href="/series-archive-ko">한국어 연작 보관소</a></li>
+<li><a href="/incident-reports-eye-witness-interviews-and-personal-logs">사건 보고서</a></li>
+<li><a href="/creepy-pasta">크리피파스타 보관소</a></li>
+</ul>
+</li>
+<li><a href="javascript:;">자료실</a>
+<ul>
+<li><a href="/user-curated-lists">유저 선정 목록</a></li>
+<li><a href="/joke-scps">농담 SCP</a><span class="c_topbar_arrow">▸</span>
+<ul>
+<li><a href="/joke-scps-tales-edition">농담 시리즈 이야기</a></li>
+</ul>
+</li>
+<li><a href="/joke-scps-ko">농담 SCP-KO</a></li>
+<li><a href="/scp-ex">해명된 SCP</a><span class="c_topbar_arrow">▸</span>
+<ul>
+<li><a href="/explained-scps-tales-edition">해명 시리즈 이야기</a></li>
+</ul>
+</li>
+<li><a href="/scp-ko-ex">해명된 SCP-KO</a></li>
+<li><a href="/goi-formats">요주의 단체 서식</a></li>
+<li><a href="/goi-formats-ko">요주의 단체 서식 KO</a></li>
+<li><a href="/audio-adaptations">음성 기록</a></li>
+<li><a href="/scp-artwork-hub">아트워크</a></li>
+<li><a href="/scp-artwork-hub-ko">아트워크 KO</a></li>
+<li><a href="/contest-archive">경연 보관소</a></li>
+<li><a href="/contest-archive-ko">경연 보관소 KO</a></li>
+</ul>
+</li>
+<li><a href="javascript:;">세계관</a>
+<ul>
+<li><a href="/canon-hub">카논</a></li>
+<li><a href="/canon-hub-ko">카논-KO</a></li>
+<li><a href="/groups-of-interest">요주의 단체</a></li>
+<li><a href="/groups-of-interest-ko">요주의 단체-KO</a></li>
+<li><a href="/log-of-anomalous-items">변칙 개체</a></li>
+<li><a href="/log-of-anomalous-items-ko">변칙 개체-KO</a></li>
+<li><a href="/log-of-extranormal-events">이상 징후</a></li>
+<li><a href="/log-of-extranormal-events-ko">이상 징후-KO</a></li>
+<li><a href="/log-of-unexplained-locations">변칙 장소</a></li>
+<li><a href="/log-of-unexplained-locations-ko">변칙 장소-KO</a></li>
+</ul>
+</li>
+<li><a href="javascript:;">SCP 인터내셔널</a>
+<ul>
+<li><a href="/scp-international">SCP 인터내셔널 허브</a></li>
+<li><a href="/scp-series-ru">러시아 SCP</a></li>
+<li><a href="/scp-series-cn">중국 SCP</a><span class="c_topbar_arrow">▸</span>
+<ul>
+<li><a href="/scp-series-cn">중국 시리즈 Ⅰ</a></li>
+<li><a href="/scp-series-cn-2">중국 시리즈 Ⅱ</a></li>
+<li><a href="/scp-series-cn-3">중국 시리즈 Ⅲ</a></li>
+</ul>
+</li>
+<li><a href="/liste-fr">프랑스 SCP</a></li>
+<li><a href="/lista-pl">폴란드 SCP</a></li>
+<li><a href="/serie-scp-es">에스파냐 SCP</a></li>
+<li><a href="/scp-series-th">태국 SCP</a></li>
+<li><a href="/scp-series-jp">일본 SCP</a><span class="c_topbar_arrow">▸</span>
+<ul>
+<li><a href="/scp-series-jp">일본 시리즈 Ⅰ</a></li>
+<li><a href="/scp-series-jp-2">일본 시리즈 Ⅱ</a></li>
+<li><a href="/scp-series-jp-3">일본 시리즈 Ⅲ</a></li>
+</ul>
+</li>
+<li><a href="/scp-serie-de">독일 SCP</a></li>
+<li><a href="/scp-it-serie-i">이탈리아 SCP</a></li>
+<li><a href="/scp-series-ua">우크라이나 SCP</a></li>
+<li><a href="/series-1-pt">포르투갈 SCP</a></li>
+<li><a href="/scp-series-cs">체코슬로바키아 SCP</a></li>
+<li><a href="/scp-series-zh">번체중국어 SCP</a></li>
+<li><a href="/scp-series-vn">베트남 SCP</a></li>
+</ul>
+</li>
+<li><a href="javascript:;">배경설정</a>
+<ul>
+<li><a href="/about-the-scp-foundation">SCP 재단에 대하여</a></li>
+<li><a href="/object-classes">객체 등급</a></li>
+<li><a href="/personnel-and-character-dossier">등장인물</a></li>
+<li><a href="/personnel-and-character-dossier-ko">등장인물-KO</a></li>
+<li><a href="/security-clearance-levels">보안 인가 등급</a></li>
+<li><a href="/secure-facilities-locations">보안 시설</a></li>
+<li><a href="/secure-facilities-locations-ko">보안 시설-KO</a></li>
+<li><a href="/task-forces">기동특무부대</a></li>
+<li><a href="/task-forces-ko">기동특무부대-KO</a></li>
+</ul>
+</li>
+<li><a href="javascript:;">이용 안내</a>
+<ul>
+<li><a href="/guide-hub">안내 허브</a></li>
+<li><a href="/site-rules">사이트 규칙</a></li>
+<li><a href="/guide-for-newbies">신입 안내</a></li>
+<li><a href="/tag-search">태그 검색</a></li>
+<li><a href="/meet-the-staff">스태프 소개</a></li>
+<li><a href="/criticism-policy">비평 정책</a></li>
+<li><a href="/copyright">저작권</a></li>
+<li><a href="/licensing-guide">라이선스 안내</a></li>
+<li><a href="/image-use-policy">이미지 사용 정책</a></li>
+<li><a href="/chat-guide">대화방 안내</a></li>
+<li><a href="/deletions-guide">삭제절차 안내</a></li>
+<li><a href="/links">링크</a></li>
+</ul>
+</li>
+</ul>
+</div>
+<div class="mobile-top-bar">
+<div class="open-menu">
+<p><a href="#side-bar">≡</a></p>
+</div>
+<ul>
+<li>SCP
+<ul>
+<li><a href="/scp-series-ko-2">시리즈 KO Ⅱ</a></li>
+<li><a href="/scp-series-ko">시리즈 KO Ⅰ</a></li>
+<li><a href="/scp-ko-series-tales-edition">» 시리즈 KO Ⅰ 이야기</a></li>
+<li><a href="/scp-series-8">시리즈 Ⅷ</a></li>
+<li><a href="/scp-series-7">시리즈 Ⅶ</a></li>
+<li><a href="/scp-series-6">시리즈 Ⅵ</a></li>
+<li><a href="/scp-series-6-tales-edition">» 시리즈 Ⅵ 이야기</a></li>
+<li><a href="/scp-series-5">시리즈 Ⅴ</a></li>
+<li><a href="/scp-series-5-tales-edition">» 시리즈 Ⅴ 이야기</a></li>
+<li><a href="/scp-series-4">시리즈 Ⅳ</a></li>
+<li><a href="/scp-series-4-tales-edition">» 시리즈 Ⅳ 이야기</a></li>
+<li><a href="/scp-series-3">시리즈 Ⅲ</a></li>
+<li><a href="/scp-series-3-tales-edition">» 시리즈 Ⅲ 이야기</a></li>
+<li><a href="/scp-series-2">시리즈 Ⅱ</a></li>
+<li><a href="/scp-series-2-tales-edition">» 시리즈 Ⅱ 이야기</a></li>
+<li><a href="/scp-series">시리즈 Ⅰ</a></li>
+<li><a href="/scp-series-1-tales-edition">» 시리즈 Ⅰ 이야기</a></li>
+</ul>
+</li>
+<li>이야기
+<ul>
+<li><a href="/foundation-tales">이야기 허브</a></li>
+<li><a href="/foundation-tales-ko">한국어 이야기 허브</a></li>
+<li><a href="/series-archive">연작 보관소</a></li>
+<li><a href="/series-archive-ko">한국어 연작 보관소</a></li>
+<li><a href="/incident-reports-eye-witness-interviews-and-personal-logs">사건 보고서</a></li>
+<li><a href="/creepy-pasta">크리피파스타 보관소</a></li>
+</ul>
+</li>
+<li>자료실
+<ul>
+<li><a href="/user-curated-lists">유저 선정 목록</a></li>
+<li><a href="/joke-scps">농담 SCP</a></li>
+<li><a href="/joke-scps-tales-edition">» 농담 시리즈 이야기</a></li>
+<li><a href="/joke-scps-ko">농담 SCP-KO</a></li>
+<li><a href="/scp-ex">해명된 SCP</a></li>
+<li><a href="/explained-scps-tales-edition">» 해명 시리즈 이야기</a></li>
+<li><a href="/scp-ko-ex">해명된 SCP-KO</a></li>
+<li><a href="/goi-formats">요주의 단체 서식</a></li>
+<li><a href="/goi-formats-ko">요주의 단체 서식 KO</a></li>
+<li><a href="/audio-adaptations">음성 기록</a></li>
+<li><a href="/scp-artwork-hub">아트워크</a></li>
+<li><a href="/scp-artwork-hub-ko">아트워크 KO</a></li>
+<li><a href="/contest-archive">경연 보관소</a></li>
+<li><a href="/contest-archive-ko">경연 보관소 KO</a></li>
+</ul>
+</li>
+<li>세계관
+<ul>
+<li><a href="/canon-hub">카논</a></li>
+<li><a href="/canon-hub-ko">카논-KO</a></li>
+<li><a href="/groups-of-interest">요주의 단체</a></li>
+<li><a href="/groups-of-interest-ko">요주의 단체-KO</a></li>
+<li><a href="/log-of-anomalous-items">변칙 개체</a></li>
+<li><a href="/log-of-anomalous-items-ko">변칙 개체-KO</a></li>
+<li><a href="/log-of-extranormal-events">이상 징후</a></li>
+<li><a href="/log-of-extranormal-events-ko">이상 징후-KO</a></li>
+<li><a href="/log-of-unexplained-locations">변칙 장소</a></li>
+<li><a href="/log-of-unexplained-locations-ko">변칙 장소-KO</a></li>
+<li><a href="/object-classes">객체 등급</a></li>
+<li><a href="/personnel-and-character-dossier">등장인물</a></li>
+<li><a href="/personnel-and-character-dossier-ko">등장인물-KO</a></li>
+<li><a href="/security-clearance-levels">보안 인가 등급</a></li>
+<li><a href="/secure-facilities-locations">보안 시설</a></li>
+<li><a href="/secure-facilities-locations-ko">보안 시설-KO</a></li>
+<li><a href="/task-forces">기동특무부대</a></li>
+<li><a href="/task-forces-ko">기동특무부대-KO</a></li>
+</ul>
+</li>
+<li><a href="javascript:;">이용 안내</a>
+<ul>
+<li><a href="/guide-hub">안내 허브</a></li>
+<li><a href="/site-rules">사이트 규칙</a></li>
+<li><a href="/guide-for-newbies">신입 안내</a></li>
+<li><a href="/tag-search">태그 검색</a></li>
+<li><a href="/meet-the-staff">스태프 소개</a></li>
+<li><a href="/criticism-policy">비평 정책</a></li>
+<li><a href="/copyright">저작권</a></li>
+<li><a href="/licensing-guide">라이선스 안내</a></li>
+<li><a href="/image-use-policy">이미지 사용 정책</a></li>
+<li><a href="/chat-guide">대화방 안내</a></li>
+<li><a href="/deletions-guide">삭제절차 안내</a></li>
+<li><a href="/links">링크</a></li>
+</ul>
+</li>
+</ul>
+</div>
+
+                    </div>
+                
+                <div id="login-status"><a href="javascript:;" onclick="WIKIDOT.page.listeners.createAccount(event)" class="login-status-create-account btn">계정 생성</a> <span>혹은</span> <a href="javascript:;" onclick="WIKIDOT.page.listeners.loginClick(event)" class="login-status-sign-in btn btn-primary">로그인</a> </div>
+                <div id="header-extra-div-1"><span></span></div><div id="header-extra-div-2"><span></span></div><div id="header-extra-div-3"><span></span></div>
+            </div>
+            
+            <div id="content-wrap">
+                
+                    <div id="side-bar">
+                        
+
+
+                        
+
+<div style="text-align: center;"><img src="http://scpko.wdfiles.com/local--files/main/logo_white.png" style="width: 0; height: 0;" alt="logo_white.png" class="image" /></div>
+<div class="side-block" style="display: block; background-color: #f0fff6;">
+<div class="menu-item" style="margin-bottom: 5px; text-align: center;"><a href="/guide-hub">안내&nbsp;허브</a>&nbsp;| <a href="/guide-by-scka">방문자&nbsp;안내</a></div>
+<div class="collapsible-block">
+<div class="collapsible-block-folded"><a class="collapsible-block-link" href="javascript:;">새&nbsp;회원&nbsp;정보</a></div>
+<div class="collapsible-block-unfolded" style="display:none">
+<div class="collapsible-block-unfolded-link"><a class="collapsible-block-link" href="javascript:;">새&nbsp;회원&nbsp;정보</a></div>
+<div class="collapsible-block-content">
+<div class="menu-item"><a href="/about-the-scp-foundation">SCP&nbsp;재단에&nbsp;대하여</a></div>
+<div class="menu-item"><a href="/site-rules">사이트&nbsp;규칙</a>&nbsp;| <a href="/guide-for-newbies">신입&nbsp;안내</a></div>
+<div class="menu-item"><a href="/scp-ko-glossary">용어집‑KO</a>&nbsp;| <a href="/faq">FAQ</a></div>
+</div>
+</div>
+</div>
+<div class="collapsible-block">
+<div class="collapsible-block-folded"><a class="collapsible-block-link" href="javascript:;">새&nbsp;기여자&nbsp;정보</a></div>
+<div class="collapsible-block-unfolded" style="display:none">
+<div class="collapsible-block-unfolded-link"><a class="collapsible-block-link" href="javascript:;">새&nbsp;기여자&nbsp;정보</a></div>
+<div class="collapsible-block-content">
+<div class="menu-item"><a href="/how-to-write-an-scp">작성&nbsp;가이드</a>&nbsp;| <a href="/wiki-syntax">위키&nbsp;구문</a></div>
+<div class="menu-item"><a href="/tag-guide">태그&nbsp;안내</a>&nbsp;| <a href="/translate:tags">태그&nbsp;번역</a></div>
+<div class="menu-item"><a href="/licensing-guide">라이선스&nbsp;안내</a></div>
+<div class="menu-item"><a href="/translate:rules">번역&nbsp;규정</a>&nbsp;| <a href="/reserved-translations">번역&nbsp;예약</a></div>
+</div>
+</div>
+</div>
+<div class="menu-item" style="text-align: center;"><a href="/system:join">사이트&nbsp;가입하기</a></div>
+</div>
+<div class="side-block">
+<div class="menu-item" style="display: flex; justify-content: center;"><a style="display: inline-block; order: 1; width: 30%; text-align: center;" href="/">대문</a>
+<div style="display: inline-block; order: 1; width: 10px; text-align: center;">|</div>
+<br />
+<a style="display: inline-block; order: 1; width: 30%; text-align: center;" href="/forum:start">포럼</a></div>
+<div class="heading">
+<p>SCP&nbsp;데이터베이스</p>
+</div>
+<div class="menu-item" style="letter-spacing:-0.5px;"><a href="/scp-series">I</a>&nbsp;| <a href="/scp-series-2">II</a>&nbsp;| <a href="/scp-series-3">III</a>&nbsp;| <a href="/scp-series-4">IV</a>&nbsp;| <a href="/scp-series-5">V</a>&nbsp;| <a href="/scp-series-6">VI</a>&nbsp;| <a href="/scp-series-7">VII</a></div>
+<div class="menu-item" style="letter-spacing:0;"><a href="/scp-series-8">VIII</a>&nbsp;| <a href="/scp-international">INT</a>&nbsp;| <a href="/scp-series-ko">KO-I</a>&nbsp;| <a href="/scp-series-ko-2">KO-II</a></div>
+<div class="heading">
+<p>SCP‑EN&nbsp;자료</p>
+</div>
+<div class="menu-item" style="letter-spacing:-1px;"><a href="/foundation-tales">이야기</a>&nbsp;| <a href="/canon-hub">카논</a>&nbsp;| <a href="/scp-artwork-hub">아트워크</a>&nbsp;| <a href="/goi-formats">GOI&nbsp;서식</a></div>
+<div class="heading">
+<p>SCP‑KO&nbsp;자료</p>
+</div>
+<div class="menu-item" style="letter-spacing:-1px;"><a href="/foundation-tales-ko">이야기</a>&nbsp;| <a href="/canon-hub-ko">카논</a>&nbsp;| <a href="/scp-artwork-hub-ko">아트워크</a>&nbsp;| <a href="/goi-formats-ko">GOI&nbsp;서식</a></div>
+<div class="heading">
+<p>사이트</p>
+</div>
+<div class="menu-item" style="letter-spacing:-0.75px;"><a href="/random:random-scp">랜덤&nbsp;SCP</a>&nbsp;| <a href="/random:random-tale">랜덤&nbsp;이야기</a>&nbsp;| <a href="/random:random-goi-format">랜덤&nbsp;서식</a></div>
+<div class="menu-item"><a href="/top-rated-pages-this-month">최고&nbsp;평점&nbsp;목록</a>&nbsp;| <a href="/new-pages-feed">최근&nbsp;생성&nbsp;목록</a></div>
+<div class="menu-item"><a href="/tag-search">태그&nbsp;검색</a></div>
+<div class="heading">
+<p>커뮤니티</p>
+</div>
+<div class="menu-item"><a href="/forum:recent-posts">최근&nbsp;포스트</a>&nbsp;| <a href="/chat-guide">대화방</a></div>
+<div class="menu-item"><a href="/authors-pages">작가&nbsp;페이지</a>&nbsp;| <a href="/authors-pages-ko">한국어&nbsp;작가&nbsp;페이지</a></div>
+<div class="menu-item"><a href="/news">이달의&nbsp;소식</a>&nbsp;| <a href="http://scpko.wikidot.com/forum/c-7000466/">이슈트래커</a></div>
+<div class="heading">
+<p>링크</p>
+</div>
+<div class="menu-item"><a href="http://www.scp-wiki.net/" target="_blank">SCP‑EN</a>&nbsp;| <a href="http://scp-int.wikidot.com/" target="_blank">SCP‑INT</a></div>
+<div class="menu-item"><a href="http://ko5command.wikidot.com/" target="_blank">운영진&nbsp;포럼</a>&nbsp;| <a href="http://scpper.com/" target="_blank">통계</a></div>
+<div class="heading">
+<p>샌드박스</p>
+</div>
+<div class="menu-item"><a href="http://sandbox.scp-wiki.kr/" target="_blank">1호기</a>&nbsp;| <a href="http://scpkosb.wikidot.com/" target="_blank">2호기</a> | <a href="http://scpkosb3.wikidot.com/" target="_blank">3호기</a></div>
+<div class="heading" style="padding: 0; height: 0;"></div>
+<div class="menu-item" style="text-align: center;"><a href="/contribute">기여하기</a></div>
+</div>
+<div class="side-block" style="display: block; background-color: #fff0f0;">
+<div class="collapsible-block">
+<div class="collapsible-block-folded"><a class="collapsible-block-link" href="javascript:;">관리</a></div>
+<div class="collapsible-block-unfolded" style="display:none">
+<div class="collapsible-block-unfolded-link"><a class="collapsible-block-link" href="javascript:;">관리</a></div>
+<div class="collapsible-block-content">
+<div class="menu-item"><a href="/_admin">사이트&nbsp;매니저</a></div>
+<div class="menu-item"><a href="/workbench">워크벤치</a>&nbsp;| <a href="/system:list-all-pages">모든&nbsp;페이지</a></div>
+</div>
+</div>
+</div>
+<div class="menu-item"><a href="/nav:side">사이드바</a>&nbsp;| <a href="/nav:top">상단바</a>&nbsp;| <a href="/component:theme">사이트&nbsp;테마</a></div>
+</div>
+<div class="side-block" style="background-color: #E5E5FF;">
+<div style="text-align: center;"><a href="http://scpko.wikidot.com/chat-guide" target="_blank"><img src="http://scpko.wdfiles.com/local--files/nav%3Aside-sns/icon-discord-50.png" class="sns-icon" alt="icon-discord-50.png" /></a> <a href="http://twitter.com/scp_ko" target="_blank"><img src="http://scpko.wdfiles.com/local--files/nav%3Aside-sns/icon-twitter-50.png" class="sns-icon" alt="icon-twitter-50.png" /></a> <a href="https://www.youtube.com/c/SCPKO" target="_blank"><img src="http://scpko.wdfiles.com/local--files/nav%3Aside-sns/icon-youtube-50.png" class="sns-icon" alt="icon-youtube-50.png" /></a> <a href="http://blog.naver.com/scpnews" target="_blank"><img src="http://scpko.wdfiles.com/local--files/nav%3Aside-sns/icon-naverblog-50.png" class="sns-icon" alt="icon-naverblog-50.png" /></a>
+
+</div>
+</div>
+<div style="clear:both; height: 0px; font-size: 1px"></div>
+<div style="text-align: center;"><a href="http://creativecommons.org/licenses/by-sa/3.0/deed.ko" target="_blank"><img src="http://scpko.wdfiles.com/local--files/nav:side/CC-by-sa-small.png" width="175px" alt="CC-by-sa-small.png" class="image" /></a><br />
+<span style="font-size:80%;"><a href="/copyright">copyright</a></span></div>
+<a class="close-menu" href="##"><br />
+<img src="http://scpko.wdfiles.com/local--files/nav:side/black.png" style="z-index:-1; opacity: 0.3;" alt="black.png" class="image" /><br /></a> 
+
+
+<div class="scpnet-interwiki-wrapper interwiki-stylable"><div class="list-pages-box">    <div class="list-pages-item">
+
+
+<p><iframe src="//interwiki.scpwiki.com/interwikiFrame.html?lang=ko&community=scp&pagename=main" allowtransparency="true" class="html-block-iframe scpnet-interwiki-frame"></iframe></p>
+</div>
+    
+    
+    
+    </div></div>
+<p><iframe src="//interwiki.scpwiki.com/styleFrame.html?priority=0&theme=https://scp-wiki.wdfiles.com/local--code/component%3Atheme/1&css={$css}" style="display: none"></iframe></p>
+<div style="position: absolute; top: -9999px; left: -9999px"><div class="list-pages-box">    <div class="list-pages-item">
+
+
+<img src="https://api.crom.avn.sh/pixel?site_name=scpko&amp;fullname=main&amp;revisions=744&amp;rating=40&amp;rating_votes=40" alt="" class="image" /></div>
+    
+    
+    
+    </div></div>
+<div style="clear:both; height: 0px; font-size: 1px"></div>
+
+                        
+
+
+                    </div>
+                
+                
+                <!-- google_ad_section_end -->
+                
+                <div id="main-content">
+                    <div id="action-area-top"></div>
+                    
+                    
+
+                    
+
+                    
+
+
+
+                    <div id="page-content">
+                        
+
+
+
+
+
+
+<div style="text-align: center;"><img src="http://scpko.wdfiles.com/local--files/main/250_logo.png" height="0" width="0" alt="250_logo.png" class="image" /></div>
+<div style="text-align: center; color: #600;">
+<div class="unmargined" style="margin: 0 0 3px;">
+<p>경고: 재단의 데이터베이스는</p>
+</div>
+<div class="unmargined" style="font-size: 400%; font-weight: bold; margin: 2px 0 5px;">
+<p>기밀입니다</p>
+</div>
+<div class="unmargined" style="margin: 0 0 3px;">
+<p>비허가 인원의 접근은 엄격히 금지되어 있습니다</p>
+</div>
+<div class="unmargined" style="margin: 0 0 3px;">
+<p>위반자는 추적, 특정, 구금합니다</p>
+</div>
+</div>
+<div class="content-panel centered standalone" style="margin-top: 20px;">
+<h3><span>🎊 수상작 발표: <a href="/scp1000kocontesthub">SCP-1000-KO 경연</a></span></h3>
+<h2><span>🥇 <a style="font-family: 'OKCHAN';" href="/scp-1000-ko">SCP-1000-KO</a> by <span class="printuser"><a href="http://www.wikidot.com/user:info/thd-glasses" onclick="WIKIDOT.page.listeners.userInfo(1664610); return false;">thd-glasses</a></span></span></h2>
+</div>
+<div class="content-panel centered standalone">
+<h2><span>🏁 개최 중: <strong><a href="/samcheonri-contest-haeseo">삼천리 해서 경연</a></strong></span></h2>
+<h3><span>🗳️ 투고 기간: 1월 15일 - 2월 15일</span></h3>
+</div>
+<div style="clear:both; height: 0px; font-size: 1px"></div>
+<div style="border:solid 1px #999999; background:#f2f2c2; padding:5px; margin: 20px 0; text-align:center; font-weight: bold;">
+<p><a href="/third-party-cookies">공지: 로그인 오류에 대하여</a></p>
+</div>
+<div style="clear:both; height: 0px; font-size: 1px"></div>
+<div class="content-panel info-block">
+<div class="panel-heading">
+<p>둘러보기</p>
+</div>
+<div class="panel-body">
+<div class="alternate unmargined">
+<div class="info-title">
+<div class="content-panel left-column" style="border-radius:0; background-color:transparent; border:transparent; margin: 0 0 0; box-shadow: 0 0 0;">
+<table style="width: 100%;">
+<tr>
+<th><a href="/guide-for-newbies">🎉 신입 안내</a></th>
+<th><a href="/new-pages-feed">📈 최근 생성</a></th>
+</tr>
+</table>
+</div>
+<div class="content-panel right-column" style="border-radius:0; background-color:transparent; border:transparent; margin: 0 0 0; box-shadow: 0 0 0;">
+<table style="width: 100%;">
+<tr>
+<th><a href="/top-rated-pages-this-month">🏆 최고 평점</a></th>
+<th><a href="/forum:recent-posts">📫 최근 댓글</a></th>
+</tr>
+</table>
+</div>
+<div style="clear:both; height: 0px; font-size: 1px"></div>
+</div>
+</div>
+</div>
+<div class="panel-footer">
+<p> </p>
+</div>
+</div>
+<div style="clear:both; height: 0px; font-size: 1px"></div>
+<div class="feature-block">
+<div class="content-panel left-column">
+<div class="panel-heading">
+<p>특집 SCP</p>
+</div>
+<div class="panel-body">
+<div class="feature-title">
+<p><a href="/scp-6154">SCP-6154</a>: 새해 복 많이 받으세요 SCP 재단!</p>
+</div>
+<div class="feature-subtitle">
+<p>작가: <span class="printuser"><a href="http://www.wikidot.com/user:info/penton" onclick="WIKIDOT.page.listeners.userInfo(1998745); return false;">Penton</a></span><br />
+번역가: <span class="printuser"><a href="http://www.wikidot.com/user:info/timidchild" onclick="WIKIDOT.page.listeners.userInfo(8312746); return false;">TimidChild</a></span></p>
+</div>
+<p><em>처음엔 부적절한 행동으로 인해 징계받았으나…… 노출된 대부분의 대상자는 기분이 만족스러운 수준으로 개선되었다고 보고했다.</em></p>
+</div>
+<div class="panel-footer">
+<p><a href="/featured-scp-archive">특집 SCP 보관 기록</a></p>
+</div>
+</div>
+<div class="content-panel right-column">
+<div class="panel-heading">
+<p>특집 이야기</p>
+</div>
+<div class="panel-body">
+<div class="feature-title">
+<p><a href="/not-just-a-cat-in-a-labcoat">그냥 실험복 속 고양이는 아님</a></p>
+</div>
+<div class="feature-subtitle">
+<p>작가: <span class="printuser"><a href="http://www.wikidot.com/user:info/monkeyclone" onclick="WIKIDOT.page.listeners.userInfo(693397); return false;">MonkeyClone</a></span><br />
+번역가: <span class="printuser"><a href="http://www.wikidot.com/user:info/migueludeom" onclick="WIKIDOT.page.listeners.userInfo(6405122); return false;">Migueludeom</a></span></p>
+</div>
+<p><em>그럼 도대체 뭘까요?</em></p>
+</div>
+<div class="panel-footer">
+<p><a href="/featured-tale-archive">특집 이야기 보관 기록</a></p>
+</div>
+</div>
+<div class="content-panel left-column">
+<div class="panel-heading">
+<p>특집 SCP-KO</p>
+</div>
+<div class="panel-body">
+<div class="feature-title">
+<p><a href="/scp-536-ko">SCP-536-KO</a>: 7인의 설민석</p>
+</div>
+<div class="feature-subtitle">
+<p>작가: <span class="printuser"><a href="http://www.wikidot.com/user:info/payroy" onclick="WIKIDOT.page.listeners.userInfo(5340234); return false;">Payroy</a></span><br />
+번역가: N/A</p>
+</div>
+<p><em>SCP-536-KO는 대한민국에서 벌어진 역사적 순간에 모두 참여해 활동했으며, 현재는 이 기억을 바탕으로 역사 강사로서 임하고 있다.</em></p>
+</div>
+<div class="panel-footer">
+<p><a href="/featured-scp-ko-archive">특집 SCP-KO 보관 기록</a></p>
+</div>
+</div>
+<div class="content-panel right-column">
+<div class="panel-heading">
+<p>특집 한국어 이야기</p>
+</div>
+<div class="panel-body">
+<div class="feature-title">
+<p><a href="/spy-and-yogurt">재회, 첩보, 그리고 요구르트.</a></p>
+</div>
+<div class="feature-subtitle">
+<p>작가: <span class="printuser"><a href="http://www.wikidot.com/user:info/navla" onclick="WIKIDOT.page.listeners.userInfo(5817542); return false;">Navla</a></span><br />
+번역가: N/A</p>
+</div>
+<p><em>“하하… 이런… 체크메이트군.”<br />
+“난 영어는 할 줄 몰러.”</em></p>
+</div>
+<div class="panel-footer">
+<p><a href="/featured-tale-ko-archive">특집 한국어 이야기 보관 기록</a></p>
+</div>
+</div>
+</div>
+<div style="clear:both; height: 0px; font-size: 1px"></div>
+<div class="content-panel info-block">
+<div class="panel-heading">
+<p>정보</p>
+</div>
+<div class="panel-body">
+<div class="alternate unmargined">
+<div class="info-title">
+<p><a href="/site-rules">사이트 규칙</a></p>
+</div>
+<div class="info-subtitle">
+<p>번역: <span class="printuser"><a href="http://www.wikidot.com/user:info/qaz135" onclick="WIKIDOT.page.listeners.userInfo(1415555); return false;">QAZ135</a></span></p>
+</div>
+<p>위키의 규칙을 알고 이해하실 것이 요구됩니다. 규칙을 몰랐다는 것은 규칙을 어겼을 때의 변명이 될 수 없습니다.</p>
+</div>
+<div class="alternate unmargined">
+<div class="info-title">
+<p><a href="/scp-ko-glossary">용어집-KO</a></p>
+</div>
+<div class="info-subtitle">
+<p>작성: <span class="printuser"><a href="http://www.wikidot.com/user:info/thd-glasses" onclick="WIKIDOT.page.listeners.userInfo(1664610); return false;">thd-glasses</a></span></p>
+</div>
+<p>한국어 위키 및 SCP에 관한 전반적인 용어를 모아놓은 용어집입니다.</p>
+</div>
+<div class="alternate unmargined">
+<div class="info-title">
+<p><a href="/guide-hub">안내 허브</a></p>
+</div>
+<div class="info-subtitle">
+<p>번역: <span class="printuser"><a href="http://www.wikidot.com/user:info/dr-devan" onclick="WIKIDOT.page.listeners.userInfo(1396679); return false;">Dr Devan</a></span></p>
+</div>
+<p>각종 안내와 에세이, 도움이 되는 문서들을 모아둔 허브입니다.</p>
+</div>
+<div class="alternate unmargined">
+<div class="info-title">
+<p><a href="/how-to-write-an-scp">SCP를 작성하는 법</a></p>
+</div>
+<div class="info-subtitle">
+<p>번역: <span class="printuser"><a href="http://www.wikidot.com/user:info/dr-devan" onclick="WIKIDOT.page.listeners.userInfo(1396679); return false;">Dr Devan</a></span></p>
+</div>
+<p>주로 발전, 격리, 어조와 검열, 인간형, 양식 그리고 탬플릿을 다루고 있습니다.</p>
+</div>
+<div class="alternate unmargined">
+<div class="info-title">
+<p><a href="/licensing-guide">라이선스 안내</a></p>
+</div>
+<div class="info-subtitle">
+<p>번역: <span class="printuser"><a href="http://www.wikidot.com/user:info/dr-devan" onclick="WIKIDOT.page.listeners.userInfo(1396679); return false;">Dr Devan</a></span></p>
+</div>
+<p>사이트에 적용되는 CCL의 사용과 필요를 설명하고 있습니다.</p>
+</div>
+<div class="alternate unmargined">
+<div class="info-title">
+<p><a href="/faq">FAQ</a></p>
+</div>
+<div class="info-subtitle">
+<p>번역: <span class="printuser"><a href="http://www.wikidot.com/user:info/qaz135" onclick="WIKIDOT.page.listeners.userInfo(1415555); return false;">QAZ135</a></span></p>
+</div>
+<p>자주 묻는 질문. SCP 세계관, 사이트가 돌아가는 방법 그리고 올바른 행동에 관한 정보를 다루고 있습니다.</p>
+</div>
+</div>
+<div class="panel-footer">
+<p> </p>
+</div>
+</div>
+<div class="issue-tracker content-panel"><div class="wikidot-hybrid-module" id="wikidot-hybrid-module-862033906"><div style="display: none">{&quot;module&quot;:&quot;feed\/FeedModule&quot;,&quot;params&quot;:{&quot;src&quot;:&quot;http:\/\/scpko.wikidot.com\/feed\/forum\/t-13609347.xml&quot;,&quot;limit&quot;:&quot;1&quot;,&quot;module_body&quot;:&quot;[[div class=\&quot;panel-heading\&quot;]]\n\uc8fc\uac04 \uc774\uc288\ud2b8\ub798\ucee4\n[[\/div]]\n[[div class=\&quot;panel-body\&quot;]]\n++ \u2705 **%%linked_title%%**\n^^%%date|%c (%O \uc804)%%^^\n\n------\n\n%%custom content:encoded%%\n@@@@\n[[\/div]]&quot;}}</div></div>
+<div class="panel-footer">
+<p> </p>
+</div>
+</div>
+
+
+
+
+<a class="library" href="http://wanderers-library-ko.wikidot.com" target="_blank"><img src="http://wanderers-library.wdfiles.com/local--files/component%3Atheme/wl_logo.png" class="logo" width="125px" alt="wl_logo.png" /><br />
+<span class="fake-h4">공식 자매 사이트</span><br />
+<span class="fake-h2">↬ <span class="ruby">방랑자의 도서관<span class="rt">The Wanderer's Library</span></span> ↫</span><br />
+방랑자의 도서관은 재단의 최장수 자매 사이트로, 뱀의 손의 거점이자 모든 지식의 보고인 「도서관」에 소장된 무한히 무수한 환상적인 책들을 보여주고 있습니다. 이 곳에 소장된 이야기들은 우리가 아는 세계 너머 더 큰 세계가 있다는 감각, 즉 <span class="ruby">「경이」<span class="rt">Wonder</span></span>를 불러일으켜야 합니다.<br /></a>
+<div class="international-block content-panel">
+<div class="panel-heading">
+<p>SCP 재단 언어별 지부</p>
+</div>
+
+
+
+<div class="translation-info" style="text-align: center;">
+<div class="collapsible-block">
+<div class="collapsible-block-folded"><a class="collapsible-block-link" href="javascript:;">+&nbsp;자동&nbsp;번역&nbsp;사용하기</a></div>
+<div class="collapsible-block-unfolded" style="display:none">
+<div class="collapsible-block-unfolded-link"><a class="collapsible-block-link" href="javascript:;">-&nbsp;자동&nbsp;번역&nbsp;사용하기</a></div>
+<div class="collapsible-block-content">
+<div style="text-align: left;">
+<h2 id="toc0"><span><strong>1. 게코 기반 브라우저</strong></span></h2>
+<ul>
+<li><a href="https://addons.mozilla.org/ko/firefox/addon/traduzir-paginas-web/" target="_blank">모질라 🦊파이어폭스용 웹 페이지 번역기 확장 기능</a></li>
+</ul>
+<h2 id="toc1"><span><strong>2. 크로뮴 기반 브라우저</strong></span></h2>
+<ul>
+<li><a href="https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb" target="_blank">Google 번역 - Chrome 웹 스토어</a></li>
+<li><a href="https://support.google.com/chrome/answer/173424?co=GENIE.Platform%3DDesktop&amp;hl=ko" target="_blank">컴퓨터에서 Chrome 언어 변경 및 웹페이지 번역하기</a></li>
+<li><a href="https://support.microsoft.com/ko-kr/topic/microsoft-edge-%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%EC%97%90%EC%84%9C-microsoft-translator-%EC%82%AC%EC%9A%A9-4ad1c6cb-01a4-4227-be9d-a81e127fcb0b" target="_blank">엣지에서 마이크로소프트 번역기 사용하기</a></li>
+<li><a href="https://help.whale.naver.com/desktop/features/translate/" target="_blank">네이버 웨일 번역기능</a></li>
+</ul>
+<h2 id="toc2"><span><strong>3. 트라이던트 기반 브라우저</strong></span></h2>
+<ul>
+<li>인터넷 익스플로러는 2021년부터 지원이 종료됩니다. 다른 웹브라우저를 사용하기를 권장합니다.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="panel-body">
+<div class="c_international-body">
+<div class="c_international-box">
+<div class="c_international-logo"><a href="http://scp-int.wikidot.com" target="_blank"><img src="https://scp-wiki.wdfiles.com/local--files/scp-international/scp-logo-int.png" alt="scp-logo-int.png" class="image" /></a></div>
+<div class="c_international-text">
+<p><a href="http://scp-int.wikidot.com/" target="_blank">SCP-INT 인터내셔널</a></p>
+</div>
+</div>
+<div class="c_international-box">
+<div class="c_international-logo"><a href="https://www.scp-wiki.wikidot.com" target="_blank"><img src="https://scpko.wdfiles.com/local--files/main/logo_white.png" alt="logo_white.png" class="image" /></a></div>
+<div class="c_international-text">
+<p><a href="http://www.scpwiki.com" target="_blank">SCP-EN 영미권</a></p>
+</div>
+</div>
+<div class="c_international-box">
+<div class="c_international-logo"><a href="http://scp-ru.wikidot.com/" target="_blank"><img src="https://o5command-int.wdfiles.com/local--files/tech-team:graphic-templates/scp-logo-ru-400.png" alt="scp-logo-ru-400.png" class="image" /></a></div>
+<div class="c_international-text">
+<p><a href="https://scpfoundation.net/" target="_blank">SCP-RU 러시아</a></p>
+</div>
+</div>
+<div class="c_international-box">
+<div class="c_international-logo"><a href="https://scp-wiki-cn.wikidot.com/" target="_blank"><img src="https://o5command-int.wdfiles.com/local--files/tech-team:graphic-templates/scp-logo-cn-400.png" alt="scp-logo-cn-400.png" class="image" /></a></div>
+<div class="c_international-text">
+<p><a href="https://scp-wiki-cn.wikidot.com/" target="_blank">SCP-CN 중국 대륙</a></p>
+</div>
+</div>
+<div class="c_international-box">
+<div class="c_international-logo"><a href="http://fondationscp.wikidot.com/" target="_blank"><img src="https://o5command-int.wdfiles.com/local--files/tech-team:graphic-templates/scp-logo-fr-400.png" alt="scp-logo-fr-400.png" class="image" /></a></div>
+<div class="c_international-text">
+<p><a href="http://fondationscp.wikidot.com/" target="_blank">SCP-FR 프랑스</a></p>
+</div>
+</div>
+<div class="c_international-box">
+<div class="c_international-logo"><a href="http://scp-wiki.net.pl" target="_blank"><img src="https://o5command-int.wdfiles.com/local--files/tech-team:graphic-templates/scp-logo-pl-400.png" alt="scp-logo-pl-400.png" class="image" /></a></div>
+<div class="c_international-text">
+<p><a href="http://scp-wiki.net.pl" target="_blank">SCP-PL 폴란드</a></p>
+</div>
+</div>
+<div class="c_international-box">
+<div class="c_international-logo"><a href="http://lafundacionscp.wikidot.com/" target="_blank"><img src="https://o5command-int.wdfiles.com/local--files/tech-team:graphic-templates/scp-logo-es-400.png" alt="scp-logo-es-400.png" class="image" /></a></div>
+<div class="c_international-text">
+<p><a href="http://lafundacionscp.wikidot.com/" target="_blank">SCP-ES 에스파냐어권</a></p>
+</div>
+</div>
+<div class="c_international-box">
+<div class="c_international-logo"><a href="http://scp-th.wikidot.com/" target="_blank"><img src="https://o5command-int.wdfiles.com/local--files/tech-team:graphic-templates/scp-logo-th-400.png" alt="scp-logo-th-400.png" class="image" /></a></div>
+<div class="c_international-text">
+<p><a href="http://scp-th.wikidot.com/" target="_blank">SCP-TH 태국</a></p>
+</div>
+</div>
+<div class="c_international-box">
+<div class="c_international-logo"><a href="http://scp-jp.wikidot.com/" target="_blank"><img src="https://o5command-int.wdfiles.com/local--files/tech-team:graphic-templates/scp-logo-jp-400.png" alt="scp-logo-jp-400.png" class="image" /></a></div>
+<div class="c_international-text">
+<p><a href="http://scp-jp.wikidot.com/" target="_blank">SCP-JP 일본</a></p>
+</div>
+</div>
+<div class="c_international-box">
+<div class="c_international-logo"><a href="http://scp-wiki-de.wikidot.com/" target="_blank"><img src="https://scp-wiki-de.wdfiles.com/local--files/scp-foundation-in-deutschland-portal/scp-logo-dach-400.png" alt="scp-logo-dach-400.png" class="image" /></a></div>
+<div class="c_international-text">
+<p><a href="http://scp-wiki-de.wikidot.com/" target="_blank">SCP-DE 독일어권</a></p>
+</div>
+</div>
+<div class="c_international-box">
+<div class="c_international-logo"><a href="http://fondazionescp.wikidot.com" target="_blank"><img src="https://o5command-int.wdfiles.com/local--files/tech-team:graphic-templates/scp-logo-it-400.png" alt="scp-logo-it-400.png" class="image" /></a></div>
+<div class="c_international-text">
+<p><a href="http://fondazionescp.wikidot.com/" target="_blank">SCP-IT 이탈리아</a></p>
+</div>
+</div>
+<div class="c_international-box">
+<div class="c_international-logo"><a href="http://scp-ukrainian.wikidot.com/" target="_blank"><img src="https://scp-wiki.wdfiles.com/local--files/scp-international/scp-logo-ua-400.png" alt="scp-logo-ua-400.png" class="image" /></a></div>
+<div class="c_international-text">
+<p><a href="http://scp-ukrainian.wikidot.com/" target="_blank">SCP-UA 우크라이나</a></p>
+</div>
+</div>
+<div class="c_international-box">
+<div class="c_international-logo"><a href="http://scp-pt-br.wikidot.com/" target="_blank"><img src="https://scp-wiki.wdfiles.com/local--files/scp-international/scp-logo-pt-400.png" alt="scp-logo-pt-400.png" class="image" /></a></div>
+<div class="c_international-text">
+<p><a href="http://scp-pt-br.wikidot.com/" target="_blank">SCP-PT 포르투갈어권</a></p>
+</div>
+</div>
+<div class="c_international-box">
+<div class="c_international-logo"><a href="http://scp-cs.wikidot.com/" target="_blank"><img src="https://scp-int.wdfiles.com/local--files/main/scp-logo-cs-400.png" alt="scp-logo-cs-400.png" class="image" /></a></div>
+<div class="c_international-text">
+<p><a href="http://scp-cs.wikidot.com/" target="_blank">SCP-CS 체코슬로바크</a></p>
+</div>
+</div>
+<div class="c_international-box">
+<div class="c_international-logo"><a href="http://scp-zh-tr.wikidot.com/" target="_blank"><img src="https://scp-int.wdfiles.com/local--files/main/scp-logo-zh-400.png" alt="scp-logo-zh-400.png" class="image" /></a></div>
+<div class="c_international-text">
+<p><a href="http://scp-zh-tr.wikidot.com/" target="_blank">SCP-ZH 번체중국어권</a></p>
+</div>
+</div>
+<div class="c_international-box">
+<div class="c_international-logo"><a href="http://scp-vn.wikidot.com/" target="_blank"><img src="http://scp-vn.wdfiles.com/local--files/component%3Atheme/logo-vn-100" alt="logo-vn-100" class="image" /></a></div>
+<div class="c_international-text">
+<p><a href="http://scp-vn.wikidot.com/" target="_blank">SCP-VN 베트남</a></p>
+</div>
+</div>
+</div>
+</div>
+<div class="panel-footer">
+<p> </p>
+</div>
+</div>
+<div class="content-panel centered standalone">
+<p><span style="font-size:90%;">SCP 재단 위키 <strong><a href="/sigma-9-themes">시그마-9</a></strong> 테마 및 양식은 <span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/aelanna" onclick="WIKIDOT.page.listeners.userInfo(334454); return false;"><img class="small" src="http://www.wikidot.com/avatar.php?userid=334454&amp;amp;size=small&amp;amp;timestamp=1672517923" alt="Aelanna" style="background-image:url(http://www.wikidot.com/userkarma.php?u=334454)" /></a><a href="http://www.wikidot.com/user:info/aelanna" onclick="WIKIDOT.page.listeners.userInfo(334454); return false;">Aelanna</a></span>가 설계했으며,<br />
+크리에이티브 커먼즈 저작자표시-동일조건변경허락 라이선스(<a href="https://creativecommons.org/licenses/by-sa/3.0/">CC-BY-SA</a>) 하에 사용됩니다.<br /></span></p>
+</div>
+<div style="clear:both; height: 0px; font-size: 1px"></div>
+<div class="ko-footer">
+<hr />
+<div class="comments-box">
+		
+	<div class="options" id="comments-options-hidden" >
+		<a href="javascript:;" onclick="WIKIDOT.modules.ForumCommentsModule.listeners.showComments(event)">댓글 보기</a> 
+	</div>
+		
+	<div id="thread-container" class="thread-container" style="margin-top: 1em">
+			</div>
+	
+	
+	
+</div></div>
+<br />
+
+                    </div>
+
+                    
+
+
+                    
+
+
+
+                    
+                        <div class="page-tags">
+                            <span>
+                                <a href="/system:page-tags/tag/%EA%B4%80%EB%A6%AC#pages">관리</a><a href="/system:page-tags/tag/%ED%97%88%EB%B8%8C#pages">허브</a>
+                            </span>
+                        </div>
+                    
+
+                    <div id="page-info-break"></div>
+                    
+                        <div id="page-options-container">
+                            <div id="page-info">페이지 내역: 744, 마지막 수정: <span class="odate time_1672517923 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20%EC%A0%84%29">31 Dec 2022 20:18</span></div>
+            <div id="page-options-bottom"  class="page-options-bottom">
+            <a href="javascript:;" class="btn btn-default" id="edit-button">편집</a>
+<a href="javascript:;" class="btn btn-default" id="pagerate-button">평가 (<span id="prw54355">+40</span>)</a>
+<a href="javascript:;" class="btn btn-default" id="tags-button">태그</a>
+<a href="/forum/t-565046/main" class="btn btn-default" id="discuss-button">토론하기 (42)</a>
+<a href="javascript:;" class="btn btn-default" id="history-button">내역</a>
+<a href="javascript:;" class="btn btn-default" id="files-button">파일</a>
+<a href="javascript:;" class="btn btn-default" id="print-button">인쇄</a>
+<a href="javascript:;" class="btn btn-default" id="site-tools-button">사이트 도구</a>
+<a href="javascript:;" class="btn btn-default" id="more-options-button">+&nbsp;설정</a> 
+</div>
+<div id="page-options-bottom-2" class="page-options-bottom form-actions" style="display:none">
+    <a href="javascript:;" class="btn btn-default" id="edit-sections-button">부분 편집</a>
+    <a href="javascript:;" class="btn btn-default" id="edit-append-button">덧붙이기</a>
+    <a href="javascript:;" class="btn btn-default" id="edit-meta-button">메타 편집</a>
+    <a href="javascript:;" class="btn btn-default" id="watchers-button">주시하는 사람들</a> 
+    <a href="javascript:;" class="btn btn-default" id="backlinks-button">역링크</a> 
+    <a href="javascript:;" class="btn btn-default" id="view-source-button">페이지 소스</a> 
+    <a href="javascript:;" class="btn btn-default" id="parent-page-button">상위 항목</a> 
+    <a href="javascript:;" class="btn btn-default" id="page-block-button">페이지 잠금</a>    
+    <a href="javascript:;" class="btn btn-default" id="rename-move-button">이름 수정</a> 
+    <a href="javascript:;" class="btn btn-default" id="delete-button">삭제</a> 
+</div>
+<div id="page-options-area-bottom">
+</div>
+
+                        </div>
+                    
+                    <div id="action-area" style="display: none;"></div>
+                </div>
+            </div>
+            
+            
+            
+            <div id="footer" style="display: block; visibility: visible;">
+                <div class="options" style="display: block; visibility: visible;">
+    <a href="http://www.wikidot.com/doc" id="wikidot-help-button">도움말</a>
+    &nbsp;|
+    <a href="http://www.wikidot.com/legal:terms-of-service" id="wikidot-tos-button">서비스 약관</a>
+    &nbsp;|
+    <a href="http://www.wikidot.com/legal:privacy-policy" id="wikidot-privacy-button">개인 정보</a>
+    &nbsp;|
+    <a href="javascript:;" id="bug-report-button" onclick="WIKIDOT.page.listeners.pageBugReport(event)">버그 신고</a>
+    &nbsp;|
+    <a href="javascript:;" id="abuse-report-button" onclick="WIKIDOT.page.listeners.flagPageObjectionable(event)">불쾌한 내용 신고</a>
+</div>
+지원 사이트 <a href="http://www.wikidot.com">Wikidot.com</a> 
+            </div>
+            
+                <div id="license-area" class="license-area">
+                    <strong>🈲: SCP 재단의 모든 컨텐츠는 15세 미만의 어린이 혹은 청소년이 시청하기에 부적절합니다.</strong><br>
+따로 명시하지 않는 한 이 사이트의 모든 콘텐츠는 <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.ko">크리에이티브 커먼즈 저작자표시-동일조건변경허락 3.0 라이선스</a>를 따릅니다.
+                </div>
+            
+            
+            
+
+
+
+            <div id="extrac-div-1"><span></span></div><div id="extrac-div-2"><span></span></div><div id="extrac-div-3"><span></span></div>
+            
+            
+            
+            
+                
+            
+        </div>
+        
+    </div>
+<!-- These extra divs/spans may be used as catch-alls to add extra imagery. -->
+<div id="extra-div-1"><span></span></div><div id="extra-div-2"><span></span></div><div id="extra-div-3"><span></span></div>
+<div id="extra-div-4"><span></span></div><div id="extra-div-5"><span></span></div><div id="extra-div-6"><span></span></div>
+</div>
+
+
+
+
+</div>
+<div id="dummy-ondomready-block" style="display: none;" ></div>
+    <!-- Google Analytics load -->
+    <script type="text/javascript">
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    </script>
+
+    <!-- Quantcast -->
+    <script type="text/javascript">
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    </script>
+    <noscript>
+        <img src="http://pixel.quantserve.com/pixel/p-edL3gsnUjJzw-.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
+    </noscript>
+
+
+
+
+<div id="page-options-bottom-tips" style="display: none;">
+    <div id="edit-button-hovertip">
+        이 페이지의 내용을 편집하려면 여기를 클릭하세요.    </div>
+</div>
+<div id="page-options-bottom-2-tips"  style="display: none;">
+    <div id="edit-sections-button-hovertip">
+        페이지(가능한 경우)의 개별 섹션의 편집을 전환하려면 여기를 클릭하세요. 기능이 활성화되면 제목 옆의 &quot;edit&quot; 링크를 찾으세요.    </div>
+    <div id="edit-append-button-hovertip">
+        전체 페이지 소스를 편집하지 않고 내용을 추가합니다.    </div>
+    <div id="history-button-hovertip">
+        이 페이지가 과거에서부터 어떻게 발전해왔는지 확인해보세요.    </div>
+    <div id="discuss-button-hovertip">
+        이 페이지의 내용에 대한 토론을 원하신다면 이쪽입니다.    </div>
+    <div id="files-button-hovertip">
+        이 페이지의 첨부 파일을 보거나 관리합니다.    </div>
+    <div id="site-tools-button-hovertip">
+        사이트 관리에 유용한 몇 가지 도구입니다.    </div>
+    <div id="backlinks-button-hovertip">
+        이 페이지를 링크하거나 포함한 페이지를 봅니다.    </div>
+    <div id="rename-move-button-hovertip">
+        페이지의 이름(URL 주소, 카테고리 포함)을 변경합니다.    </div>
+    <div id="view-source-button-hovertip">
+        편집 없이 이 페이지의 위키 소스를 봅니다.    </div>
+    <div id="parent-page-button-hovertip">  
+        상위 항목을 보거나 설정합니다. (페이지 경로 및 구조화된 레이아웃 생성)    </div>
+            <div id="abuse-report-button-hovertip">
+            이 페이지에 불쾌한 콘텐츠가 있다면 관리자에게 알립니다.        </div>
+        <div id="bug-report-button-hovertip">
+            뭔가 바라는대로 작동하지 않는다고요? 할 수 있는 것을 찾아보세요.        </div>
+        <div id="wikidot-help-button-hovertip">
+            일반 Wikidot.com 문서와 지원 부서.        </div>
+        <div id="wikidot-tos-button-hovertip">
+            Wikidot.com 서비스 약관 - 무엇을 할 수 있는지, 무엇을 하지 말아야 하는지 등        </div>
+        <div id="wikidot-privacy-button-hovertip">
+            Wikidot.com 개인 정보 보호 정책          
+        </div>
+    </div>
+</body>
+</html>
