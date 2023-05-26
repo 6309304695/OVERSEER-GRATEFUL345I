@@ -1,0 +1,22 @@
+Last login: Sun May 21 00:25:07 on ttys000
+keithbieszczat@Keiths-MacBook-Air ~ % system_profiler SPHardwareDataType
+Hardware:
+
+    Hardware Overview:
+
+      Model Name: MacBook Air
+      Model Identifier: Mac14,2
+      Model Number: MLXX3LL/A
+      Chip: Apple M2
+      Total Number of Cores: 8 (4 performance and 4 efficiency)
+      Memory: 8 GB
+      System Firmware Version: 8422.100.650
+      OS Loader Version: 8422.100.650
+      Serial Number (system): CQX432TFVJ
+      Hardware UUID: 85CCD142-ED33-54D9-BC26-522829C79C6D
+      Provisioning UDID: 00008112-001911303C21401E
+      Activation Lock Status: Enabled
+
+keithbieszczat@Keiths-MacBook-Air ~ % 
+
+
