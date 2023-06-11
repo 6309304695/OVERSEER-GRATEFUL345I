@@ -36,3 +36,8 @@ gh api \
   -H "X-GitHub-Api-Version: 2022-11-28" \
   /repos/OWNER/REPO/releases/assets/ASSET_ID)
 
+[
+curl --include --request GET \
+--url "https://api.github.com/repositories/1300192/issues?page=515" \
+--header "Accept: application/vnd.github+json"]
+
