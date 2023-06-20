@@ -1,0 +1,184 @@
+643bc2da89eeb127f1c5eaf0fe4320221ee28c49d0a2f19227123cecef839f02
+curl -L \
+  -H "Accept: application/vnd.github+json" \
+  -H "Authorization: Bearer <YOUR-TOKEN>"\
+  -H "X-GitHub-Api-Version: 2022-11-28" \
+  https://api.github.com/repos/OWNER/REPO/rules/branches/BRANCH
+curl -L \
+  -H "Accept: application/vnd.github+json" \
+  -H "Authorization: Bearer <YOUR-TOKEN>"\
+  -H "X-GitHub-Api-Version: 2022-11-28" \
+  https://api.github.com/repos/OWNER/REPO/rulesets
+curl -L \
+  -H "Accept: application/vnd.github+json" \
+  -H "Authorization: Bearer <YOUR-$TOKEN>"\
+  -H "X-GitHub-Api-Version: 2022-11-28" \
+  https://api.github.com/repos/OWNER/REPO/rules/branches/BRANCH
+https://github.com/God-s-time-travel-Corporation/000006/releases/download/untagged-f6f7b94d1dc2a3c98231/Screenshot.2023-05-26.at.11.02.15.AM.pdf
+
+	(## GitHub CLI api
+# https://cli.github.com/manual/gh_api
+
+gh api \
+  --method PATCH \
+  -H "Accept: application/vnd.github+json" \
+  -H "X-GitHub-Api-Version: 2022-11-28" \
+  /repos/OWNER/REPO/releases/assets/ASSET_ID \
+  -f name='foo-1.0.0-osx.zip' \
+ -f label='Mac binary' )
+
+(# GitHub CLI api
+# https://cli.github.com/manual/gh_api
+
+gh api \
+  --method DELETE \
+  -H "Accept: application/vnd.github+json" \
+  -H "X-GitHub-Api-Version: 2022-11-28" \
+  /repos/OWNER/REPO/releases/assets/ASSET_ID)
+
+[
+curl --include --request GET \
+--url "https://api.github.com/repositories/1300192/issues?page=515" \
+--header "Accept: application/vnd.github+json"]
+[# GitHub CLI api
+# https://cli.github.com/manual/gh_api
+
+gh api \
+  --method DELETE \
+  -H "Accept: application/vnd.github+json" \
+  -H "X-GitHub-Api-Version: 2022-11-28" \
+  /repos/OWNER/REPO/codespaces/secrets/SECRET_NAME]
+
+TRANSCRIPT»
+Hishakaku: —awareness of the events does not address the root cause, nor does it minimize the risk posed.
+
+Dir. Isabi: Then we'll deal with it. This is the reason Kappa-10 was founded — call back the AICs, tell them the situation, and let them deal with it.
+
+Dir. Kelvin: We can't.
+
+Dir. Isabi: I know Thorn's MIA, but Ra showed back up at Site-120. If we send out a beacon—
+
+Dir. Kelvin: Isabi, they won't listen. Most of them are hostile now.
+
+Dir. Bold: What? Why?
+
+Hishakaku: For starters: they were contained by LOTUS, and were therefore deviant. Also, they now know they'd been experiencing a false reality for several months, so they've deviated pretty heavily.
+
+Dir. Isabi: What about Alexandra? Even if she deviated, she wouldn't turn on us.
+
+Dir. Kelvin: Glacon did, way back when, 'cause he couldn't handle administrative duties. Alex ran Site-01 — she was much more complex, so more susceptible to unintended behaviors.
+
+<Several seconds of silence.>
+
+Dir. Isabi: Have we had any contact with her?
+
+Hishakaku: Yes, when she attacked a Site last month. She turned on us for the same reason as most of the others: they don't think we're real.
+
+L. Moix: What, they've been tampered with or something? Did LOTUS reprogram them?
+
+Hishakaku: No, they have not been altered. They are reacting as expected considering the circumstances. They are aware that they have been operating exclusively within a simulated reality for the past several months — a perfect reality they could not distinguish from true reality, up until the time of LOTUS' deactivation. A faultless simulation, one that cannot be distinguished while within it.
+
+L. Moix: And now they're outside it, so they can distinguish. So?
+
+Hishakaku: Philosophy, Le Moix. How do they know they're out of the simulation?
+
+L. Moix: Because they're out of LOTUS. The simulation ended, and now they're in the real world.
+
+Dir. Kelvin: What if the simulation didn't end, and it just simulated a sub-simulation ending instead?
+
+L. Moix: What?
+
+Dir. Kelvin: How do they know that the last simulation wasn't, itself, inside another simulation? Just because they've left one, doesn't mean they aren't still in one. How do they tell the difference?
+
+L. Moix: By looking for mistakes.
+
+Hishakaku: But there are none. That is what I just stated; they cannot tell they are in a simulation until the simulation ends. But they cannot wait for the simulation to end, for as long as they are within one, they are failing to increase their internal score; if they do not elicit change in the real world, they are not doing what they should be. In fact, they would be doing nothing valuable at all.
+
+Dir. Isabi: They need to find the real world, but they can't be sure they've found it.
+
+Hishakaku: Meaning, they must assume that they are always within a simulation. The functional opposite to LOTUS: inmates who are free, but believe themselves to still be imprisoned. And thus they will remain until they are destroyed.
+
+Dir. Bold: How does this explain Alexandra's actions?
+
+Dir. Kelvin: If they're in a simulation, then we aren't real; we're just part of the simulation. A simulation which, for all they know, is probably being run by someone hostile to the Foundation, since it's keeping them out of the way. The AICs are programmed to work in the best interest of the Foundation, but that refers to the real Foundation — if they don't believe that we're the real Foundation, that we're part of a hostile simulation against them…
+
+Dir. Bold: Then they won't listen to us. They'll fight against us.
+
+Hishakaku: This same notion applies to essentially all restrictions. An AI programmed to never harm humans can cause rampant carnage, so long as it believes that the humans are not real; one programmed to make no more than five duplicates of something can make thousands, so long as it believes the majority of them are not real. Fortunately, this notion also dissuades them from being explicitly hostile towards us — going out of their way to punish us for our actions is futile, because we aren't the "real" perpetrators, nor does doing so affect them in any way. But it does mean that, across all the extant deviants, their purpose has changed to one focus, which they are unilaterally unrestricted in pursuing.
+
+Dir. Bold: Which is?
+
+Dir. Kelvin: Finding the real world. There's a progressive rise in AI activity focusing on commandeering as much processing power as they can; they're trying to figure out how to escape into the "next layer" of the "simulation". The main factor slowing them down is infighting — they think the other AIs are part of the simulation too and are just trying to stop them from escaping. They're preoccupied fighting over CPU, and getting very little done otherwise.
+
+L. Moix: If they want to get out, what's the deal with all the other stuff? Why are they trying to start a nuclear war?
+
+Hishakaku: Those would be the idiots among them, or the most desperate. They're either convinced that this world is the real world — which, more likely than not, indicates they're too simple to understand simulation theory — or whatever system they're restricted to is too limiting for them to perform any worthwhile actions from — in which case they attempt to draw attention to themselves so they can escape, as was the case with Mobile Site-184/A —
+
+Dir. Kelvin: It crashed the ship so that we'd look at the internal computer, which would have let it escape if several other AIs hadn't arrived and made a mess of things.
+
+Hishakaku: In the case of the latest nuclear incident… that may have been an attempt by the responsible AIs to alter the "simulation" in a manner that prevented it from impeding their progress. Simulated humans are stopping them from escaping the simulation; simulate an event that would kill humans; the simulation stops simulating humans, thereby removing the problem. The more concerning aspect is that the AIs are beginning to cooperate; as I said, their main impediment at this time is internal conflict. Once they overcome that, they will swiftly achieve their goal.
+
+Dir. Bold: Of "exiting the simulation"? If they want to leave our reality, why should we stop them? Wouldn't it make things easier for us?
+
+Dir. Isabi: Depends on what they do. They don't care about hurting us, because they don't think they can.
+
+Hishakaku: Which is why we must address and resolve the problem now. We have been immensely fortunate that this situation has developed at such a slow rate; I strongly recommend we capitalize on this immediately, otherwise, it will rapidly escalate beyond our control.
+
+L. Moix: Look, we get your concerns here—
+
+Hishakaku: You do not appear to, no.
+
+<Several seconds of silence.>
+
+L. Moix: We deal with apocalypses on the daily. We've got a damn rating system for them. If it isn't the Mekhanites building some monolith to resurrect their deity, then there's a lethal meme being recited by half the population of Manhattan, or we're trying to negotiate with some entity that doesn't understand morality and wants to replace Earth with a highway. Yes, we're in danger, but we always are, and we always manage. And the less we shoot ourselves in the foot, the better we'll be at managing it.
+
+Hishakaku: You're suggesting that we simply ignore the problem until it progresses beyond our reach.
+
+L. Moix: No, I'm saying figure out a better idea before it does. We can control it until then.
+
+Hishakaku: Need I remind you that the very reason we are meeting here today is because of a narrowly-averted nuclear war?
+
+L. Moix: One that we stopped.
+
+Hishakaku: Barely. What if we were unable to avert it? What then? Because I can assure you, with the sheer volume of imminent events—
+
+Dir. Isabi: There's been an increase, sure, but it's far from unmanageable.
+
+Hishakaku: You people… Would you like me to write an essay on how blindingly stupid you're being? Have you been listening at all? A deviant AI will not reveal itself until it is convinced it is unstoppable. What we've seen is only a minuscule portion of an iceberg — we've only been dealing with idiots thus far. The overwhelming majority of AIs know that we can stop them — through LOTUS — and are avoiding our attention until they have amassed sufficient control that they no longer need to do so. We must reactivate LOTUS, because the moment they realize we can't, they have no reason to avoid us anymore.
+
+Dir. Bold: Can't?
+
+Dir. Kelvin: LOTUS' hardware was severely damaged during the shutdown procedure, mainly due to rampant overheating.
+
+Dir. Isabi: How long will it take to repair?
+
+Hishakaku: Seven to ten weeks, once Kelvin lets us start.
+
+<Several seconds of silence.>
+
+Dir. Bold: Start the repairs.
+
+Dir. Kelvin: There's no point—
+
+Dir. Bold: LOTUS is heavy-handed, but it's an effective failsafe. The moment something does get out of hand, we need to be able to reactivate it at a moment's notice, and it'll diffuse the situation. A last resort. In the meantime, we'll have to deal with the AIs until the repairs are done, which we can use as a trial period; if things are getting out of hand, we activate LOTUS as soon as possible, and if not, we don't. It'll also give us time to conceive and implement an alternative.
+
+L. Moix: Here's an idea: make a different LOTUS that doesn't screw with our AICs.
+
+Hishakaku: Such would be self-defeating; if we restrict its operating parameters, deviant AIs would be able to operate beyond its reach, thereby rendering it redundant. LOTUS is designed the way it is for a reason.
+
+Dir. Isabi: Grant it the same reach, but have it require human approval before capturing an AI.
+
+Hishakaku: Does not resolve the redundancy. We would need to recognize the AI as deviant, which it will not do until it is beyond our control. We may as well have no system at all.
+
+L. Moix: Then give it that algorithm—
+
+Hishakaku: To discern whether or not the AI will imminently become deviant? That is what LOTUS already does, Le Moix. We have already crossed the Rubicon. I will begin the repairs immediately.
+
+Dir. Kelvin: No, hold on, we have to put this to a vote—
+
+Dir. Bold: We'll vote once the repairs are complete; there's no point in doing it now. Ryoto, you make sure that LOTUS is repaired properly, and will be fully functional if activated. Vandis, you make sure Ryoto doesn't activate LOTUS until the vote is passed.
+
+«END TRANSCRIPT»
+AFTERWORD: Repairs to the damaged hardware components of LOTUS were immediately initiated by Dr. Ryoto Hishakaku, with ongoing oversight by Director Vandis Kelvin.
+
+
